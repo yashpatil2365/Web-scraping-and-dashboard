@@ -1,5 +1,13 @@
 # Web-scraping-and-dashboard
-fetch data using beautiful soup library and requests to fetch the imdb data 
-storing the data in excel file
-importing  excel file in power bi to create report
-added drillthrough in report 
+Problem statement= analyzing IMDB data and visualizing the data in Power bi
+
+url= https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating
+
+The topic covered-
+Python libraries- pandas, Beautiful soup, requests
+Power bi - drill-through, filter, visuals
+
+
+
+
+
